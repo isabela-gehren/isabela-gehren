@@ -28,12 +28,24 @@
  💻 Arquitetura de software | Boas práticas | Performance 
 
  
+## 📖
+📖 O codificador limpo ✔️
+
+📖 Arquitetura limpa
+
+📖 Treinamento de equipes ágeis
+
+📖 O Projeto Fênix: um Romance Sobre TI, DevOps e Sobre Ajudar o seu Negócio a Vencer 🕒
+
+📖 Comunicação não violenta ✔️
+
+📖 Equipes brilhantes: Como criar grupos fortes e motivados 🎧
+
 ##  📫
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelagehren)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabela.gehren@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rrIUj26h14/)
 [![Medium](https://img.shields.io/badge/@isabela.gehren-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@isabela.gehren)
-
 
 
 <!--
